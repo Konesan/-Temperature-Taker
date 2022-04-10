@@ -1,2 +1,13 @@
-# -Temperature-Taker
-We tried to develop an effective machine instead of a temperature gun. Our product consists of a 3 parts camera, temperature reader and hand sanitizer. We have attached a movable wheel to move the temperature reader to the desired location. We need to connect 5V current to run this product. we have to stand the box to measure the temperature. The machine will only work when the user is standing inside the box. Considering the safety of the person measuring the temperature in the current Covid19 situation , when we get this work from the machine it goes to good ethical thinking.
+# Temperature-Taker
+# Arduino (MLX90614 sensor)
+A replacement is required when considering the safety of the person measuring the temperature.We have put an  effort to make that person's work more easier. Measuring temperature using the device we have invented eliminates the chances of spreadage of the Covid-19  Virus. We are able to do it ourselves using the resources available in our University. Specially while considering the  economical state of our country, our product will be very handy for the people.
+Youtube link: https://youtu.be/dbIPP1xY0us
+![alt text](https://i.postimg.cc/2y0gsJSS/11.png)
+
+![alt text](https://i.postimg.cc/pTkpSD3J/3.png)
+
+![alt text](https://i.postimg.cc/BZT8LPpg/4.png)
+
+![alt text](https://i.postimg.cc/GtDhCV2r/12.png)
+
+![alt text](https://i.postimg.cc/BvJ8CSvF/19.png)
